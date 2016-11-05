@@ -327,6 +327,7 @@ class region:
 
 def main():
 
+	"""
 	file_pre = "data/srtm_"
 	file_post = ".asc"
 	cols = ["12","13","14","15","16","17","18","19","20","21","22"]
@@ -348,6 +349,11 @@ def main():
 		usa.stitch(usa_row)
 
 	usa.plot(start_x=0,start_y=0,compression_factor=5,type="3D")
+	"""
+	file = "data/srtm_22_04.asc"
+	reg = region()
+	reg.parse_from_file(file)
+	reg.plot(start_x=0,start_y=0,compression_factor=1,type="3D")
 
 
 if __name__ == '__main__':

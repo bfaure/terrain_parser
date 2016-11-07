@@ -25,4 +25,4 @@ Either download as a .zip file or clone the repository using Git. After the /ter
 , [VisPy](http://vispy.org/)
 
 ## Future Work
-Add image overlay for maps, more tool functionality (paning)
+Add image overlay for maps, more tool functionality (paning), add more import use cases (see above tutorial), color selection, lat/long plot search, plot axes.

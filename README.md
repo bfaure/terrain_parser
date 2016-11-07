@@ -20,9 +20,9 @@ Either download as a .zip file or clone the repository using Git. After the /ter
 ![Alt text](https://github.com/bfaure/terrain_parser/blob/master/resources/Capture.PNG)
 
 ## Dependencies
---> [Python 2.7](https://www.python.org/download/releases/2.7/)
-\n--> [PyQt4](https://www.riverbankcomputing.com/software/pyqt/download) 
-\n--> [VisPy](http://vispy.org/)
+[Python 2.7](https://www.python.org/download/releases/2.7/)
+, [PyQt4](https://www.riverbankcomputing.com/software/pyqt/download) 
+, [VisPy](http://vispy.org/)
 
 ## Future Work
 Add image overlay for maps, more tool functionality (paning)
